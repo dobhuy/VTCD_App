@@ -1,0 +1,6 @@
+package com.example.vtcc_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
