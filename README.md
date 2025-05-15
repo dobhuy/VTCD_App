@@ -1,6 +1,6 @@
 # 🥮 VTCD_App - Vietnamese Traditional Cake Detection
 
-**VTCD_App** is a mobile application built with Flutter that allows users to detect and identify different types of **Vietnamese traditional cakes** using real-time object detection powered by **YOLOv8**.
+**VTCD_App** is a mobile application built with Flutter that allows users to detect and identify different types of **Vietnamese traditional cakes** using object detection powered by **YOLOv8**.
 
 The project combines a **Flutter-based frontend, a JavaScript (Node.js) backend, and a Python-based deep learning model** using **YOLOv8** for image recognition.
 
